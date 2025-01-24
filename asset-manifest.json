@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/HY551/ddmaximos.git/static/css/main.e6c13ad2.css",
+    "main.js": "/HY551/ddmaximos.git/static/js/main.30edf6a2.js",
+    "static/js/239.262e72cd.chunk.js": "/HY551/ddmaximos.git/static/js/239.262e72cd.chunk.js",
+    "static/js/213.f49d1077.chunk.js": "/HY551/ddmaximos.git/static/js/213.f49d1077.chunk.js",
+    "static/js/732.ccf32cf2.chunk.js": "/HY551/ddmaximos.git/static/js/732.ccf32cf2.chunk.js",
+    "index.html": "/HY551/ddmaximos.git/index.html",
+    "main.e6c13ad2.css.map": "/HY551/ddmaximos.git/static/css/main.e6c13ad2.css.map",
+    "main.30edf6a2.js.map": "/HY551/ddmaximos.git/static/js/main.30edf6a2.js.map",
+    "239.262e72cd.chunk.js.map": "/HY551/ddmaximos.git/static/js/239.262e72cd.chunk.js.map",
+    "213.f49d1077.chunk.js.map": "/HY551/ddmaximos.git/static/js/213.f49d1077.chunk.js.map",
+    "732.ccf32cf2.chunk.js.map": "/HY551/ddmaximos.git/static/js/732.ccf32cf2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.30edf6a2.js"
+  ]
+}
